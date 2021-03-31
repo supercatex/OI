@@ -1,6 +1,6 @@
 /*
  * Author: Kinda Lam
- * CodeJam 2021 Qualification -- Question 2 -- Reversort Engineering
+ * CodeJam 2021 Qualification -- Question 3 -- Reversort Engineering
  * https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7
  */
 #include <iostream>
