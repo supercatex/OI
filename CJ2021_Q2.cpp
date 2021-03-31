@@ -1,3 +1,8 @@
+/*
+ * Author: Kinda Lam
+ * CodeJam 2021 Qualification -- Question 2 -- Moons and Umbrellas
+ * https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
+ */
 #include <iostream>
 #include <string>
 using namespace std;
@@ -55,8 +60,6 @@ int solve(int x, int y, string s)
 
 int main()
 {
-	freopen("CJ2021_Q2.in", "r", stdin);
-	
 	int T; cin >> T;
 	for (int t = 1; t <= T; t++) {
 		int X, Y; cin >> X >> Y;
